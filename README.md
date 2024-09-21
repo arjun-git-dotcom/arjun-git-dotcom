@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Arjun, and here's something cool:
+I'm Arjun & i'm a Flutter Develeoper.
+
+Nice to meet ya
 
 ![Interesting Footage GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
