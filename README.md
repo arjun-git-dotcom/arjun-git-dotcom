@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Arjun & i'm a Flutter Develeoper.
+I'm Arjun & i'm a Flutter Developer.
 
 Nice to meet ya
 
